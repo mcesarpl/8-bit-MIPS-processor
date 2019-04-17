@@ -8,49 +8,457 @@ z2
 !i10f 100
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
-vand2
+vadder
 Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
-Z1 !s110 1553481491
-!i10b 1
-!s100 3C?jWgKodIQKAZXYBKmiR1
-INZ0hhDH9M>hR4JWfM]=kK2
+Z1 DXx4 work 15 mips_mc_sv_unit 0 22 2eUbB6d<23_ME0S8kk6Jh2
 Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 !s105 and2_sv_unit
-S1
-Z4 dC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/8-bit-MIPS-processor
-Z5 w1553481456
-Z6 8C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv
-Z7 FC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv
-L0 96
-Z8 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z9 !s108 1553481491.000000
-Z10 !s107 C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv|
-Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv|
+!i10b 1
+!s100 j;9E<h9`Re[0BkUJ?I9IW3
+I3CgPBT7jIjEN>:VA2n][c0
+Z3 !s105 mips_mc_sv_unit
+S1
+Z4 dC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/8-bit-MIPS-processor
+Z5 w1555468734
+Z6 8C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/8-bit-MIPS-processor/mips_mc.sv
+Z7 FC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/8-bit-MIPS-processor/mips_mc.sv
+L0 570
+Z8 OP;L;10.4a;61
+Z9 !s108 1555468854.000000
+Z10 !s107 C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/8-bit-MIPS-processor/mips_mc.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/8-bit-MIPS-processor/mips_mc.sv|
 !s101 -O0
 !i113 1
 Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
-vinv
+valu
 R0
-!s110 1553480954
-!i10b 1
-!s100 ?zYYkSc_C`8aRWiLlS7]G0
-I[:mn;SG?m<aBK3fM6ng`M2
+R1
 R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 4NAGT_AfdIH=Xn6b2nT7S3
+I4H7Z:2gDgF;ECBXNVI38z0
 R3
 S1
 R4
-w1187058210
+R5
 R6
 R7
-L0 59
+L0 429
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+valudec
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 75eghk?H82KLEzSS@?IDN3
+IF1[[@DM4^IQi94jd3X0[h3
+R3
+S1
+R4
+R5
+R6
+R7
+L0 353
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vand2
+R0
+Z13 !s110 1553481491
+!i10b 1
+!s100 3C?jWgKodIQKAZXYBKmiR1
+INZ0hhDH9M>hR4JWfM]=kK2
+R2
+Z14 !s105 and2_sv_unit
+S1
+R4
+Z15 w1553481456
+Z16 8C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv
+Z17 FC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv
+L0 96
 R8
 r1
 !s85 0
 31
-!s108 1553480954.000000
+Z18 !s108 1553481491.000000
+Z19 !s107 C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/and2.sv|
+!s101 -O0
+!i113 1
+R12
+vandN
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 g=XRRl?AWc>WO9^=zO?WJ2
+I7PG8B0@U6Im6JD]cVRh6L1
+R3
+S1
+R4
+R5
+R6
+R7
+L0 538
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+nand@n
+vcondinv
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 DF0NK]>1L6;X<Lgn9kcQR3
+IOT1KoThWNmT;RWk^[UOT=0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 559
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vcontroller
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 MHlcB>6:SaIK__fV;4:=_2
+I6oZ^B8B1QFGnKD^V^A[542
+R3
+S1
+R4
+R5
+R6
+R7
+L0 134
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vcontroller_plabased
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 W1n:CnG?mX9hI?ejb6<O_3
+Ie6]hCVW;5ON19gP7OoLc93
+R3
+S1
+R4
+R5
+R6
+R7
+L0 300
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vdatapath
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 CS>lM:h?SZS>>1RTFQAW43
+I9@D1o0f67nGM]CzA@ZY@j1
+R3
+S1
+R4
+R5
+R6
+R7
+L0 372
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vexmemory
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 T<aj0f=]k4N4HijAZTI>S2
+I?LT5zf`KI8j5XOTCi_E<82
+R3
+S1
+R4
+R5
+R6
+R7
+L0 70
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vflop
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 J:PSUjI`L7?Z9M2jzY[C^0
+IKfObFUcog1JK9GlEWSKJT2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 475
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vflopen
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0Em4iEVTW=o?HHNEc]>Hk0
+I;9P[i05nlg2780Vf<`jAE1
+R3
+S1
+R4
+R5
+R6
+R7
+L0 484
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vflopenr
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 7EKn84VVAU51U>Im2=S913
+In:=XVN=SoSi0n6]Xm8OTT0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 493
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vinv
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _eQfibhfK2HY?]8kHdE;k1
+I<h>XQZEWF?UBFYj9cK<]W0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 552
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vmips
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 j`F1E8lJWG0e5P9LMXi?@1
+ICVkk11:[Pb2]gJ10SFnmS0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 108
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+Xmips_mc_sv_unit
+R0
+V2eUbB6d<23_ME0S8kk6Jh2
+r1
+!s85 0
+31
+!i10b 1
+!s100 2IBkLLk>8;:?3[D_SO<E<1
+I2eUbB6d<23_ME0S8kk6Jh2
+!i103 1
+S1
+R4
+R5
+R6
+R7
+L0 16
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vmux2
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 @FUF6Mb=CXRX_>2M;L0132
+I398I;E<5PikmXWmDGB;g`1
+R3
+S1
+R4
+R5
+R6
+R7
+L0 503
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vmux3
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 GS[9z:hUdK2zjojACOlQk1
+In4;QA^7kDcnDV0k1Roe221
+R3
+S1
+R4
+R5
+R6
+R7
+L0 511
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vmux4
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 P:IhhYW7l6nP_?V_=>FkY0
+IzB;DM4giVN^1ULQ;LJ;=Q2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 524
+R8
+R9
 R10
 R11
 !s101 -O0
@@ -58,34 +466,155 @@ R11
 R12
 vnand2
 R0
-Z13 !s110 1553557753
+!s110 1553557753
 !i10b 1
 !s100 UQDUIXljb7<z^[n8@fncg1
 Imf2eFDU^T?BdI_=69XaUJ0
 R2
-Z14 !s105 nand2_sv_unit
+!s105 nand2_sv_unit
 S1
 R4
-Z15 w1553557539
-Z16 8C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv
-Z17 FC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv
+w1553557539
+8C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv
+FC:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv
 L0 49
 R8
 r1
 !s85 0
 31
-Z18 !s108 1553557753.000000
-Z19 !s107 C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv|
-Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv|
+!s108 1553557753.000000
+!s107 C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv|
+!s101 -O0
+!i113 1
+R12
+vorN
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Xg8OBNUe[TkM7AD>RTmk@0
+IKjCRX_izNY<X4zViH5>1C1
+R3
+S1
+R4
+R5
+R6
+R7
+L0 545
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+nor@n
+voutputlogic
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 9e^ok1og3U2VSA5A3jHfe1
+IJHmMAe[QI^LPLPb7>LHSW0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 204
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vregfile
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 4=l726gkO;01IBEEj38lV1
+IeAcdNTlFMfC?`71a`kLEd2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 448
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vstatelogic
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _LBPJZk7oRVKbUVR^8IoC0
+I;Ya:Y[6Q?`3if61Nh0lQB0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 162
+R8
+R9
+R10
+R11
 !s101 -O0
 !i113 1
 R12
 vtestbench
 R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 e_CgnBae4AJ5RkzDh:d5h3
+I4QQS5O`odZn6[MT=5^YhH0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 31
+R8
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vtutorial_mc__inv
+R0
 R13
 !i10b 1
-!s100 4:HGkO1fmh_Cg_fSje?WY1
-I]K:;`^73R0V:^g4SgcZlL0
+!s100 An659[n5?Yngk`oeT58eS1
+InE@=NC55B_6e0zW;k11KK0
 R2
 R14
 S1
@@ -93,7 +622,7 @@ R4
 R15
 R16
 R17
-L0 8
+L0 71
 R8
 r1
 !s85 0
@@ -104,48 +633,48 @@ R20
 !s101 -O0
 !i113 1
 R12
-vtutorial_mc__inv
-R0
-R1
-!i10b 1
-!s100 An659[n5?Yngk`oeT58eS1
-InE@=NC55B_6e0zW;k11KK0
-R2
-R3
-S1
-R4
-R5
-R6
-R7
-L0 71
-R8
-r1
-!s85 0
-31
-R9
-R10
-R11
-!s101 -O0
-!i113 1
-R12
 vtutorial_mc__nand2
 R0
-R1
+R13
 !i10b 1
 !s100 ?eQjI=g^N:3gjA`WJLFnC3
 IX5]l7XKR9YHQe1Q8<Ng=63
 R2
-R3
+R14
 S1
 R4
-R5
-R6
-R7
+R15
+R16
+R17
 L0 81
 R8
 r1
 !s85 0
 31
+R18
+R19
+R20
+!s101 -O0
+!i113 1
+R12
+vzerodetect
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 GiAeaD9FNOFnS^2S6LK]I1
+I<S3ai26K[;3CYGUiRXFDN0
+R3
+S1
+R4
+R5
+R6
+R7
+L0 468
+R8
 R9
 R10
 R11

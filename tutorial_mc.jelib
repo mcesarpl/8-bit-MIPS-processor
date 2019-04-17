@@ -702,7 +702,7 @@ Ey||D5G2;|pin@4||O
 X
 
 # Cell or;1{lay}
-Cor;1{lay}||mocmos|1553569004132|1553570308275||DRC_last_good_drc_area_date()G1553570234574|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1553570234574
+Cor;1{lay}||mocmos|1553569004132|1553570308275||DRC_last_good_drc_area_date()G1553570322903|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1553570322903
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-N-Active-Con|contact@0||-32.5|-33||8||
 NMetal-1-N-Active-Con|contact@1||-16.5|-33||8||

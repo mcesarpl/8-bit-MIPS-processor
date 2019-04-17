@@ -1,1 +1,9 @@
+{C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Meu computador/Desktop/7 semestre/Circuitos Integrados/mipsfiles/nand2.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+-- Compiling module nand2
 
+Top level modules:
+	testbench
+
+} {} {}}
